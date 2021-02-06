@@ -1,0 +1,502 @@
+Default Report
+Last Modified: 2021-02-05 21:12:51 MST
+
+
+"Q1 - You are receiving this survey as our initial investigation identified you as having experience in game development. This survey should take approximately 12 minutes to complete.
+With this survey, we want to know your opinion regarding the types of bugs that are mentioned in update notes to video games.
+Your participation is voluntary and confidential. You can withdraw at any time. We do not record any identifying information.
+This survey is conducted by a team of computer science researchers from University of California, Irvine (UCI).
+The results of this survey will be used in a scientific publication. Should you be interested in being informed about the outcome of this study or any resulting publication, please contact Andrew Truelove (truelova@uci.edu).
+By clicking the button below, you acknowledge that your participation in the study is voluntary, you are 18 years of age, and that you are aware that you may choose to terminate your participation in the study at any time and for any reason.
+Please note that this survey will be best displayed on a laptop or desktop computer.  Some features may be less compatible for use on a mobile device."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"You are receiving this survey as our initial investigation identified you as having experience in game development. This survey should take approximately 12 minutes to complete.
+With this survey, we want to know your opinion regarding the types of bugs that are mentioned in update notes to video games.
+Your participation is voluntary and confidential. You can withdraw at any time. We do not record any identifying information.
+This survey is conducted by a team of computer science researchers from University of California, Irvine (UCI).
+The results of this survey will be used in a scientific publication. Should you be interested in being informed about the outcome of this study or any resulting publication, please contact Andrew Truelove (truelova@uci.edu).
+By clicking the button below, you acknowledge that your participation in the study is voluntary, you are 18 years of age, and that you are aware that you may choose to terminate your participation in the study at any time and for any reason.
+Please note that this survey will be best displayed on a laptop or desktop computer.  Some features may be less compatible for use on a mobile device.",1.00,2.00,1.04,0.19,0.04,53
+
+#,Answer,%,Count
+1,"I consent, begin the study",96.23%,51
+2,"I do not consent, I do not wish to participate",3.77%,2
+,Total,100%,53
+
+Q2 - Are you currently a professional game developer?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Are you currently a professional game developer?,1.00,2.00,1.91,0.28,0.08,47
+
+#,Answer,%,Count
+1,Yes,8.51%,4
+2,No,91.49%,43
+,Total,100%,47
+
+Q3 - How many people are employed at your organization?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,How many people are employed at your organization?,1.00,4.00,1.91,1.20,1.45,22
+
+#,Answer,%,Count
+1,1 - 49,54.55%,12
+2,50 - 999,22.73%,5
+3,"1,000 - 5,000",0.00%,0
+4,"More than 5,000",22.73%,5
+,Total,100%,22
+
+Q4 - How many years of game development experience do you have?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,How many years of game development experience do you have?,1.00,4.00,2.23,0.93,0.86,47
+
+#,Answer,%,Count
+1,Less than one year,23.40%,11
+2,One to five years,40.43%,19
+3,Five to ten years,25.53%,12
+4,More than ten years,10.64%,5
+,Total,100%,47
+
+Q5 - Do you have experience fixing bugs in updates or patches to video games?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Do you have experience fixing bugs in updates or patches to video games?,1.00,2.00,1.17,0.38,0.14,47
+
+#,Answer,%,Count
+1,Yes,82.98%,39
+2,No,17.02%,8
+,Total,100%,47
+
+"Q6 - → ""Action"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,3.00,1.38,0.54,0.30,32
+
+#,Answer,%,Count
+1,Strongly Agree,65.63%,21
+2,Agree,31.25%,10
+3,Neutral,3.13%,1
+4,Disagree,0.00%,0
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q10 - → ""Artificial Intelligence"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,2.41,0.96,0.93,32
+
+#,Answer,%,Count
+1,Strongly Agree,18.75%,6
+2,Agree,37.50%,12
+3,Neutral,28.13%,9
+4,Disagree,15.63%,5
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q11 - → ""Audio"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,5.00,2.84,1.18,1.38,32
+
+#,Answer,%,Count
+1,Strongly Agree,15.63%,5
+2,Agree,28.13%,9
+3,Neutral,15.63%,5
+4,Disagree,37.50%,12
+5,Strongly Disagree,3.13%,1
+,Total,100%,32
+
+"Q12 - → ""Bounds"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,5.00,2.66,1.38,1.91,32
+
+#,Answer,%,Count
+1,Strongly Agree,31.25%,10
+2,Agree,15.63%,5
+3,Neutral,18.75%,6
+4,Disagree,25.00%,8
+5,Strongly Disagree,9.38%,3
+,Total,100%,32
+
+"Q13 - → ""Camera"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,1.78,0.82,0.67,32
+
+#,Answer,%,Count
+1,Strongly Agree,43.75%,14
+2,Agree,37.50%,12
+3,Neutral,15.63%,5
+4,Disagree,3.13%,1
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q14 - → ""Collision of Objects"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,2.25,0.75,0.56,32
+
+#,Answer,%,Count
+1,Strongly Agree,12.50%,4
+2,Agree,56.25%,18
+3,Neutral,25.00%,8
+4,Disagree,6.25%,2
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q15 - → ""Context State"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,5.00,1.88,0.82,0.67,32
+
+#,Answer,%,Count
+1,Strongly Agree,31.25%,10
+2,Agree,56.25%,18
+3,Neutral,9.38%,3
+4,Disagree,0.00%,0
+5,Strongly Disagree,3.13%,1
+,Total,100%,32
+
+"Q16 - → ""Crash"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,3.00,1.22,0.48,0.23,32
+
+#,Answer,%,Count
+1,Strongly Agree,81.25%,26
+2,Agree,15.63%,5
+3,Neutral,3.13%,1
+4,Disagree,0.00%,0
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q17 - → ""Event Occurrence"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,2.28,0.87,0.76,32
+
+#,Answer,%,Count
+1,Strongly Agree,18.75%,6
+2,Agree,43.75%,14
+3,Neutral,28.13%,9
+4,Disagree,9.38%,3
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q18 - → ""Exploit"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,5.00,2.06,1.25,1.56,32
+
+#,Answer,%,Count
+1,Strongly Agree,46.88%,15
+2,Agree,21.88%,7
+3,Neutral,15.63%,5
+4,Disagree,9.38%,3
+5,Strongly Disagree,6.25%,2
+,Total,100%,32
+
+"Q19 - → ""Game Graphics"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,5.00,3.16,1.20,1.44,32
+
+#,Answer,%,Count
+1,Strongly Agree,9.38%,3
+2,Agree,21.88%,7
+3,Neutral,28.13%,9
+4,Disagree,25.00%,8
+5,Strongly Disagree,15.63%,5
+,Total,100%,32
+
+"Q20 - → ""User Interface"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,2.63,1.05,1.11,32
+
+#,Answer,%,Count
+1,Strongly Agree,15.63%,5
+2,Agree,34.38%,11
+3,Neutral,21.88%,7
+4,Disagree,28.13%,9
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q21 - → ""Implementation Response"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,2.09,1.07,1.15,32
+
+#,Answer,%,Count
+1,Strongly Agree,37.50%,12
+2,Agree,31.25%,10
+3,Neutral,15.63%,5
+4,Disagree,15.63%,5
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q22 - → ""Information"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,5.00,2.38,1.14,1.30,32
+
+#,Answer,%,Count
+1,Strongly Agree,28.13%,9
+2,Agree,28.13%,9
+3,Neutral,25.00%,8
+4,Disagree,15.63%,5
+5,Strongly Disagree,3.13%,1
+,Total,100%,32
+
+"Q24 - → ""Interaction of Object Properties"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,2.63,0.78,0.61,32
+
+#,Answer,%,Count
+1,Strongly Agree,6.25%,2
+2,Agree,37.50%,12
+3,Neutral,43.75%,14
+4,Disagree,12.50%,4
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q23 - → ""Interrupted Event"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,5.00,2.88,0.93,0.86,32
+
+#,Answer,%,Count
+1,Strongly Agree,6.25%,2
+2,Agree,28.13%,9
+3,Neutral,40.63%,13
+4,Disagree,21.88%,7
+5,Strongly Disagree,3.13%,1
+,Total,100%,32
+
+"Q25 - → ""Object Persistence"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,2.16,1.06,1.13,32
+
+#,Answer,%,Count
+1,Strongly Agree,34.38%,11
+2,Agree,31.25%,10
+3,Neutral,18.75%,6
+4,Disagree,15.63%,5
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q26 - → ""Position of Object"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,5.00,3.19,1.10,1.21,32
+
+#,Answer,%,Count
+1,Strongly Agree,9.38%,3
+2,Agree,15.63%,5
+3,Neutral,31.25%,10
+4,Disagree,34.38%,11
+5,Strongly Disagree,9.38%,3
+,Total,100%,32
+
+"Q27 - → ""Triggered Event"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,1.97,0.88,0.78,32
+
+#,Answer,%,Count
+1,Strongly Agree,31.25%,10
+2,Agree,50.00%,16
+3,Neutral,9.38%,3
+4,Disagree,9.38%,3
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q28 - → ""Value"" bugs are likely to have a severe negative impact on the game experience."
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Response,1.00,4.00,2.22,0.89,0.80,32
+
+#,Answer,%,Count
+1,Strongly Agree,18.75%,6
+2,Agree,53.13%,17
+3,Neutral,15.63%,5
+4,Disagree,12.50%,4
+5,Strongly Disagree,0.00%,0
+,Total,100%,32
+
+"Q48 - As a game developer, have you frequently fixed ""Information"" bugs as part of game updates?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"As a game developer, have you frequently fixed &quot;Information&quot; bugs as part of game updates?",1.00,2.00,1.43,0.50,0.25,30
+
+#,Answer,%,Count
+1,Yes,56.67%,17
+2,No,43.33%,13
+,Total,100%,30
+
+"Q51 - If you selected Yes, why do you think ""Information"" bugs appear so frequently across different releases of games?"
+"If you selected Yes, why do you think ""Information"" bugs appear so frequently across different releases of games?"
+Not a high priority for QA
+complex states and interactions can easily lead to wrong information being presented or the information even just missing
+developers overlook one requirement on a long list
+Lack of time to polish
+Open source software is often made by people who use English as a second language.
+Game developers are interested in making the game; information and documentation are mundane to write and review and are therefore more prone to mistakes.
+Information needs to be updated based on player/QA feedback.
+The internal gameplay state may change while the part that is exposed to the user may not due to human factor.
+"Management tends to rush developers, so since Information code tends to be easy code, the developer rushes too quickly and makes ""stupid"" little mistakes."
+"These values are likely to be buried in data files and it’s easy to overlook mistakes "
+"Developing mechanics is the main focus and usually information related components are pushed down to the last of the pipeline and as deadline approaches, they are not done right."
+Too many text to cover for play testers and developers
+"In the games I primarily work on (roguelikes), individual game elements (e.g. monsters) can have a mix of known and unknown properties, with properties becoming known as the element is interacted with.  If the underlying game element and the representation of player knowledge about the element are different types, many in-game calculations may need to be duplicated: once to (for example) actually perform an action, and once to calculate probabilities etc. to display to a player considering whether to perform the action."
+Different disciplines working together
+
+"Q49 - As a game developer, have you frequently fixed ""Game Graphics"" bugs as part of game updates?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"As a game developer, have you frequently fixed &quot;Game Graphics&quot; bugs as part of game updates?",1.00,2.00,1.60,0.49,0.24,30
+
+#,Answer,%,Count
+1,Yes,40.00%,12
+2,No,60.00%,18
+,Total,100%,30
+
+"Q52 - If you selected Yes, why do you think ""Game Graphics"" bugs appear so frequently across different releases of games?"
+"If you selected Yes, why do you think ""Game Graphics"" bugs appear so frequently across different releases of games?"
+Not a high priority for QA
+"Very large area, often subjective effects"
+Lower priority to fix before production
+graphics are complicated
+Jerry-rigged graphics code due to the lack of a decent graphics library
+QA limitations.
+Computer graphics is one of the most complex disciplines to work with and need highly experienced programmers to make sure that everything just work.
+"Graphics can be delicate. It can take a lot of tweaking to get something to look just right "
+Graphics is just complicated
+"The complexity of simulations coupled with ""Game Graphics"" bugs usually being the most obvious to spot. It's fairly simple to miss visual corner cases in testing."
+
+"Q50 - As a game developer, have you frequently fixed ""Action"" bugs as part of game updates?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"As a game developer, have you frequently fixed &quot;Action&quot; bugs as part of game updates?",1.00,2.00,1.33,0.47,0.22,30
+
+#,Answer,%,Count
+1,Yes,66.67%,20
+2,No,33.33%,10
+,Total,100%,30
+
+"Q53 - If you selected Yes, why do you think ""Action"" bugs appear so frequently across different releases of games?"
+"If you selected Yes, why do you think ""Action"" bugs appear so frequently across different releases of games?"
+"Interaction between varying types and/or numbers of units or characters can be complex, effort required to simulate / test ""all"" cases."
+complex requirements with nuanced interactions
+"It depends on the complexity and type of the game, in our game, everything relates to everything, so these kind of things are most complex."
+Jerry-rigged action code due to the lack of a generalized action system
+Common mistakes made during development or unexpected actions for player which wasn't tested within internal tests.
+New game mechanics are added and not all combinations are always cross-tested properly.
+"In complex games, there are a lot of complex different things that can interact and affect each other, so conflicts are very common.  This applies to other things than just ""Action"" bugs."
+"The most frequent type of player interaction, most prone to reveal hidden (untested) problems."
+"Management tends to rush developers, so since action code tends to be easy code, the developer rushes too quickly and makes ""stupid"" little mistakes."
+"It's hard to think through all the possible ""edge cases"" and interactions that may cause unintended behavior."
+"because they are easy to screw up, building good systems to manage what is possible can be very complicated"
+"Interactions are difficult because as the size of the game increases, so do the interactions. "
+"Some game mechanics are not familiar ones that we have coded often, so it would be an experimental feature for the coder. Since its an experiment, we will try to hit the deadline with a workable code than a perfect code. And that will result in edge case bugs, some times less and some times a lot. "
+"Some bug can only occur in a specific hardware or/and software setup, making it nearly impossible to test every action in every situation"
+"Games often have a large number of available actions, only some of which are available at a given time; the results of actions often depend on context (and sometimes randomness); and actions may depend on or be changed by previously-performed actions.  While testing every possible action might be feasible, testing every possible sequence of actions in every possible sequence of contexts is usually combinatorially impossible."
+"The state of games can be very complicated, thus correctly setting constraints for when actions are allowed/disallowed becomes complicated and error-prone. It is not uncommon to miss edge-cases in testing."
+
+"Q54 - If there are any other bug types that you see frequently in your own experience, why do you think these types of bugs appear so frequently across different releases of games?"
+"If there are any other bug types that you see frequently in your own experience, why do you think these types of bugs appear so frequently across different releases of games?"
+"Crash bugs are common, but only the most common are handled as exceptions, the rest are left in due to infrequency"
+"exploits, players are good at finding them"
+"Since we use deterministic lock-step simulation for multiplayer, desynchronisations are often a problem and require special care to not happen"
+Localization: developers not aware of language differences may neglect to properly write locale-aware code; Crash: not properly checking for input sanity
+Same reason as above.
+I worked mostly on AI pathing.  And it was an Open Source project.  Not comercial.
+Bounds Bugs are virtually universal across 3D games. This is generally because it is often enough for collision or physics logic to be incorrect (or at least produce an unintended result) in just one particular edge-case to create a Bounds Bug.
+
+"Q56 - As a game developer, have you frequently fixed ""Crash"" bugs that recurred over multiple updates?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"As a game developer, have you frequently fixed &quot;Crash&quot; bugs that recurred over multiple updates?",1.00,2.00,1.52,0.50,0.25,29
+
+#,Answer,%,Count
+1,Yes,48.28%,14
+2,No,51.72%,15
+,Total,100%,29
+
+"Q57 - If you selected Yes, why do you think ""Crash"" bugs recur more frequently over multiple game updates?"
+"If you selected Yes, why do you think ""Crash"" bugs recur more frequently over multiple game updates?"
+dynamic memory mangement in C/C++ is lacking
+Usually separate bugs and prioritized by incidence.
+misunderstood root cause of crash
+"usually difficult to fully define all possible reproduction methods, leading to fixing a subset of the problem each time"
+"Typically, when we do offensive programming, and some non-trivial system have unaccounted ways how to get out of the consistent state."
+"during the fix, another developer introduces similar behavior in another feature (on a parallel branch) which still contains the bug and then remains unnoticed"
+"Crashes can happen for a lot of reasons, both within the codebase and depending on the player's HW environment. What players often perceive as the same bug, can be internally caused by a different problem every time."
+"Sometimes, we cannot be given enough time to perform thorough testing."
+"Crashes are often caused by bad data being passed to functions.  When fixing a crash bug, it is easier to find the single caller that passed bad data in the crash report than it is to ensure that all callers pass good data."
+"Due to how interconnected most things in games are, it is easy to reintroduce a crash after initially fixing it"
+
+"Q60 - As a game developer, have you frequently fixed ""Game Graphics"" bugs that recurred over multiple updates?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"As a game developer, have you frequently fixed &quot;Game Graphics&quot; bugs that recurred over multiple updates?",1.00,2.00,1.79,0.41,0.16,29
+
+#,Answer,%,Count
+1,Yes,20.69%,6
+2,No,79.31%,23
+,Total,100%,29
+
+"Q58 - If you selected Yes, why do you think ""Game Graphics"" bugs recur more frequently over multiple game updates?"
+"If you selected Yes, why do you think ""Game Graphics"" bugs recur more frequently over multiple game updates?"
+Can be inter-dependent and cascade through fixes.
+Graphics bugs are the most apparent thing for the player to notice.
+"I mentioned that graphics are delicate, I believe this is why. "
+"For me at least, it was the logic used to activate or create the game graphics dynamically. Sometimes there will be really weird situations with a lot of edge cases where you need to activate your graphics, that might severely affect the game's current flow or even performance."
+
+"Q61 - As a game developer, have you frequently fixed ""Triggered Event"" bugs that recurred over multiple updates?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"As a game developer, have you frequently fixed &quot;Triggered Event&quot; bugs that recurred over multiple updates?",1.00,2.00,1.76,0.43,0.18,29
+
+#,Answer,%,Count
+1,Yes,24.14%,7
+2,No,75.86%,22
+,Total,100%,29
+
+"Q59 - If you selected Yes, why do you think ""Triggered Event"" bugs recur more frequently over multiple game updates?"
+"If you selected Yes, why do you think ""Triggered Event"" bugs recur more frequently over multiple game updates?"
+"The path of game logic can be complex, and can require lots of testing and troubleshooting. In the simpler case, it's just A-&gt;B and not A-B-C-D-E etc."
+Untested possible behavior of players.
+"also, parallel work"
+Events can often be triggered in many different ways; making sure every way works is tricky and time-consuming.
+
+"Q62 - If there are any other bug types that, in your own experience, you see recurring often, why do you think these types of bugs recur so frequently over multiple updates?"
+"If there are any other bug types that, in your own experience, you see recurring often, why do you think these types of bugs recur so frequently over multiple updates?"
+Sometimes bugs recur because some careless guy removes your fix when merging his/her code.
+It has to do with whether management allows us the time for testing before they push out the newest code.
+"""Action"" Bugs often recur over multiple updates for the same reason that Crash bugs do"
+
+"Q63 - In your opinion, what aspects of game development (i.e. testing, designing, etc.) are associated with bug recurrence in your current project or in other game projects in which you participated?"
+"In your opinion, what aspects of game development (i.e. testing, designing, etc.) are associated with bug recurrence in your current project or in other game projects in which you participated?"
+"Testing is a big part of ensuring that existing logic works, in addition to new changes."
+"No specific aspect comes to mind. Recurring bugs (as in not fixed, *not* regressing from having been fixed) are usually due to low priority / low impact. If we withold updates until everything is fixed, the players have to live with the worst bugs"
+"Designing, extrapolating, combining and exhaustive testing, in that order."
+testing
+"The lack of proper automated consistency check of systems, the lack of automated testing, the lack of testers."
+Good design helps avoid bug recurrence in the first place. Testing can be used as a fail-safe
+Lack of testing. Mostly because of the massive amount of changes over the time of certain development cycles.
+testing
+"insufficient testing, as most developers can't oversee the impact of a change on other components in the game"
+Lack of adequate testing
+"Code quality is often a huge factor for bugs.  Badly designed code interacts badly with other pieces of code, and conflicts can result easily, causing bugs.  Secondly, testing is often not comprehensive enough, or the testing only checks the current feature/bugfix and not how it interacts with everything else."
+"insufficient QA, technical debt"
+Primarily testing and secondarily writing the code
+Difficulty of cross-platform testing. Complexity and messiness of code increasing as it evolves over time.
+Implementation of mechanism  and the design
+It's been 5 years since I last did Game develiopment
+lack of automated testing
+"architecture, more than anything else"
+"Lack of automated testing definitely increases bugs in general. "
+"The coder not being able to cover all the edge cases when first architecting the game or coding features, The game designers giving very loose descriptions of what is required to be done or not being sure of what is needed, would be the reasons of bug recurrence."
+In my opinion the lack of proper testing the main reason for long standing bugs in our projects
+not having enough integration tests
+"In my experience, new gameplay features often lead to bug recurrence, when a previous bug was ""solved"" by addressing the particular feature interaction that caused the bug rather than making those features more robust in general."
+
+Q65 - What are the main challenges in identifying and fixing bugs in video game development?
+What are the main challenges in identifying and fixing bugs in video game development?
+"In my case: Developing a game to work in a web browser - testing in at least a few major desktop browsers, to make sure the experience is reasonably consistent in terms of performance and overall gameplay."
+"Reproducing a bug often requires a large time investment to reach the state in which it is apparent. Games specifically are huge loosely connected systems; bugs often depend on more than one of these systems having a certain state. Due to the very large state space, automatic testing is usually not as viable as in other disciplines."
+Software practices leading to ease of testing are typically orthogonal to good performance.
+reproducing bug
+lack of automated testing infrastructure
+"Having the will and determination to first fix bugs, and then add features, then, it isn't a mess, and it is possible to keep things reasonably clean."
+"1. Legacy code can be hard to work with, especially if the code was updated multiple times by different people without a full understanding of the code and thus contain hacky or convoluted fixes. 2. Using languages with a weak memory model such as C++ makes it hard to identify bugs caused by memory corruption errors such as use-after-free."
+Getting reports with solid reproducible instructions
+tracing the origins of the bug
+too many possibilities of interaction/combination to test them all thoroughly.
+"Again, lack of adequate testing"
+The hardest part is finding an appropriate solution to a bug that isn't hacky and is future-proof to later additions to the code that might break the bugfix again.
+"Lack of QA, faulty development schedule, low focus on code quality."
+Platform-specific bugs and bugs that only appear in specific hardware conditions (e.g. when they need a gamepad to be replicated).
+Finding the source/cause of the bug in the dynamic unorganized code
+Bugs that occur only with some OSes or hardware or only with players who act in unintuitive and unexpected ways.
+The persistence of bug
+"Trying to debug code, when it needs to run in near real time."
+the complexity of the games and the time we have to build them properly
+"Reproduction primarily. Users don’t always share the information you need to see what they see. "
+"One challenge that I faced while identifying bugs is testing out cases that require a lot of leg work or gameplay skills to test. And a challenge that I faced while fixing the bugs is finding a solution to fix the bug in all edge cases without affecting the performance or changing the current logic of the game. Sometimes, the bug could be caused because of bad game architecture, and that requires rewriting parts of the game."
+"Dijkstra argued that bugs arise in large part because programmers do not mathematically prove correctness of their code, and he wasn't wrong.  But writing code and proving theorems are different skills; and for performance reasons games are often implemented in unsafe languages that make such proofs more difficult."
+Testing and logging
